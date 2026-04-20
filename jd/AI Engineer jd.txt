@@ -1,0 +1,37 @@
+AI Engineer
+United Kingdom
+
+About the job
+AI Engineer | Up to £130,000 | Remote | Full-Time
+
+
+We've partnered with a well-funded Web3 infrastructure company eliminating blockchain fragmentation to recruit an AI Engineer. Following a $20M Series A, they're scaling fast and need someone who can supercharge the org through intelligent systems, reporting directly to the CTO.
+
+
+You'll own the full AI stack; internal tooling, developer experience, customer-facing products, and everything in between, in a technically ambitious environment where your work has immediate, visible impact.
+
+
+Key Responsibilities:
+
+Build AI-powered internal tooling and automation across all teams
+Enhance developer workflows with AI coding assistants and DX improvements
+Develop and maintain customer-facing AI systems and support pipelines
+Architect large-scale RAG and knowledge systems
+Design multi-agent and agent swarm architectures
+Manage LLM integration, model selection and cost/performance optimisation
+Fine-tune domain-specific LLMs and maintain observability (LangFuse, W&B)
+Build workflow automation pipelines with n8n and LangChain
+
+
+What We're Looking For:
+
+Proven track record shipping AI systems in production
+Strong Python, TypeScript and/or JavaScript
+Hands-on expertise with LangChain, n8n and RAG at scale
+LLM fine-tuning and multi-agent architecture experience
+Familiarity with MCP and modern AI tooling (Cursor, Claude)
+A product mindset: you identify what teams actually need and drive adoption
+
+
+Bonus: Voice AI/multimodal experience or open-source AI contributions
+If you want to build at the intersection of cutting-edge AI and Web3 infrastructure, with real ownership and outsized impact, this is the role for you.

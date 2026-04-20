@@ -1,0 +1,39 @@
+AI/ML Engineer
+Texas, United States
+
+About the job
+We have partnered with a global AI-led professional services firm specialising in advisory, technology and managed services across the government and commercial sectors to appoint an AI/ML Engineer. This is a senior hands-on role for an engineer who thrives in a client-facing delivery environment, building and deploying production-grade AI systems that solve real problems at scale. You will play a central role in shaping how the firm engineers and delivers AI solutions across a growing portfolio of government and public sector clients.
+
+
+This role suits someone who combines deep technical capability with the communication skills and commercial awareness to operate as a trusted partner to clients and internal stakeholders alike. If you have built agentic AI systems in production and want to do it at scale inside a firm with serious delivery ambition, this is worth your attention.
+
+
+About the role:
+Architect and deploy production-ready agentic AI systems, covering orchestration, retrieval, tool use, policy routing and end-to-end observability
+Build portable, multi-provider AI pipelines spanning platforms including OpenAI, Anthropic and Google Vertex AI
+Develop cloud-native systems leveraging Kubernetes, Docker, serverless architectures, event-driven design and CI/CD tooling
+Translate client and business requirements into scalable agentic workflows that automate complex processes and deliver measurable outcomes
+Lead proof of concepts, design workshops and joint engineering sessions to accelerate client adoption
+Own performance monitoring across accuracy, latency, cost and reliability, and define the standards the team works to
+Mentor junior engineers and contribute to internal frameworks, reusable patterns and the firm's broader AI engineering strategy
+
+
+ About you:
+5+ years of experience building and deploying cloud-native systems including microservices, APIs, containerisation and serverless architectures
+3+ years working with leading AI platforms and open-source LLM frameworks with hands-on experience across multi-provider pipeline development
+1+ year of production experience with agentic AI systems including RAG pipelines, orchestration frameworks and workflow automation
+Strong Python skills alongside experience with TensorFlow, PyTorch or Hugging Face
+Solid grounding in MLOps including CI/CD, continuous training, observability and automated monitoring
+Track record of delivering medium to large-scale AI/ML projects with demonstrable business impact
+Certifications in AI, cloud platforms or agentic tooling are a plus
+
+Featured benefits
+
+Medical insurance
+Vision insurance
+Dental insurance
+401(k)
+Pension plan
+Child care support
+Paid maternity leave
+Paid paternity leave

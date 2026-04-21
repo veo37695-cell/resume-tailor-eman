@@ -1,90 +1,95 @@
 About the job
-About the Company
+AI Engineer (Remote – Europe)
+
+Salary: Negotiable
+
+Crypto moves fast. MEV moves faster.
+
+
+Our client is a well-backed, rapidly growing independent research and advisory firm operating at the sharp edge of Crypto and Blockchain innovation. They are recognised experts in MEV and decentralised infrastructure, helping ambitious organisations turn deep research into commercially viable products.
+
+
+Now they’re hiring an AI Engineer, with Shipped AI in production experience, to sit at the centre of that evolution.
+
+
+This isn’t a “build a chatbot” role.
+
+
+It’s a high-impact position reporting directly to the CTO, designed to supercharge productivity across the entire organisation.
+
+
+The Role
+
+You’ll design and deploy AI systems that actually get used.
+
+
+From internal tooling to developer experience enhancements and customer-facing AI products, your work will sit in production and drive measurable impact.
+
+
+You’ll be trusted to spot opportunity, build fast, iterate faster, and make sure adoption happens.
+
+
+What You’ll Be Doing
+
+Building AI-powered internal tools and automation across teams
+Enhancing developer workflows with AI-assisted systems
+Designing and deploying customer-facing AI solutions
+Architecting large-scale RAG and knowledge systems
+Building agent and multi-agent architectures
+Selecting and optimising LLMs across providers (OpenRouter and beyond)
+Fine-tuning domain-specific models
+Creating workflow automations (n8n, LangChain pipelines)
+Implementing LLM observability (LangFuse, Weights & Biases)
+Continuously evaluating new models, frameworks and techniques
+
+
+What They’re Looking For
 
 
 
+You must have Shipped AI in Production experience
 
 
-We are a leading technology firm dedicated to innovation and excellence in artificial intelligence. Our mission is to harness the power of AI to solve real-world problems and enhance the quality of life. We foster a collaborative and inclusive culture where creativity and diversity are valued.
+You’re strong in:
+Python, TypeScript or JavaScript
+LangChain and workflow automation
+RAG at scale
+LLM fine-tuning
+Agent / multi-agent architectures
+MCP & modern AI tooling (Cursor, Claude, etc.)
+Model selection and cost/performance optimisation
+Basic DevOps
+Bonus Points
+Voice AI or multimodal systems
+Open-source AI contributions
 
 
+You understand that shipping is only half the job — adoption is the other half.
 
 
-About the Role
-
-
-
-
-
-The Artificial Intelligence Internship focuses on LLM Inference optimization knowledge. Interns will work closely with our AI team to develop and implement cutting-edge solutions.
-
-
-
-
-Responsibilities
-
-
-
-
-
-Assist in the optimization of LLM inference processes.
-Collaborate with team members on AI projects.
-Conduct research and analysis to support AI initiatives.
-Participate in team meetings and contribute ideas.
-
-
- 
-Qualifications
+The Key Trait
 
 
 
-
-
-Currently pursuing a degree in Computer Science, Artificial Intelligence, or a related field.
-
-
- 
-Required Skills
+Product Manager mindset. You naturally ask: “What problem are we actually solving?” and “Will people use this?”
 
 
 
+You proactively identify opportunities, drive buy-in, and make sure what you build compounds across the organisation.
 
 
-Strong programming skills in Python.
-Familiarity with machine learning frameworks.
-Basic understanding of natural language processing.
-
-
- 
-Preferred Skills
+Why This Role?
 
 
 
+Remote anywhere in Europe
+Direct line to the CTO
+Deeply technical environment
+Real influence over tooling and direction
+Backed, ambitious, and scaling
 
 
-Experience with LLMs and inference optimization.
-Knowledge of cloud computing platforms.
-Strong analytical and problem-solving skills.
+If you’re excited by Crypto infrastructure, intelligent systems, and building AI that genuinely increases leverage, this is worth a conversation.
 
 
- 
-Pay range and compensation package
-
-
-
-
-
-Competitive internship stipend based on experience.
-
-
-
-
-Equal Opportunity Statement
-
-
-
-
-
-We are an equal opportunity employer and are committed to fostering a diverse and inclusive workplace. We encourage applications from individuals of all backgrounds and experiences.
-
-
+Certus Recruitment Group is a well-established and experienced specialist consultancy providing GTM and Technical recruitment services. We serve the technology sector across the UK, Europe, North America, and Australia.

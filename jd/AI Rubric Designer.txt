@@ -1,0 +1,51 @@
+About the job
+Job Title: AI Rubric Designer (Remote)
+Work Mode: Fully Remote
+Location: Remote (Philippines, Pakistan, UAE, Nigeria, Bangladesh, Indonesia, Egypt, South Africa, Turkey, Vietnam, Malaysia, Kenya, Thailand, Ukraine, Serbia, Japan, South Korea, Israel, Norway, Switzerland)
+
+
+Role Overview
+
+Explore building agents using OpenClaw across multiple AI models and design rubrics to evaluate their outcomes - spanning health, education, daily life, et. (all coding work)
+
+
+Shape the future of autonomous AI agents by providing expert human feedback to leading AI organisations. Train Large Language Models (LLMs) for complex, multi-step architectural workflows. Flexible remote work with no minimum hours and weekly payments.
+
+
+Key Responsibilities
+
+AI Agent Testing
+
+Write evaluation rubrics with objective pass/fail criteria
+Debug agent traces to identify failure patterns
+Stress test agents in multi-step, real-world scenarios
+Technical Evaluation
+
+Assess production-grade modular software architecture
+Analyse multi-turn system interactions and behaviours
+Provide high-density technical feedback for LLM training
+Project Workflow
+
+Create an account and upload a resume/ID
+Complete onboarding assessment
+Start earning through flexible task assignments
+
+
+Qualifications:
+
+3+ years of experience in backend engineering, AI automation, or complex systems integration.
+Proven ability to build and maintain production-grade software with modular separation (e.g., distinct services for data parsing, logic processing, and reporting).
+Strong command of at least two major languages (e.g., Python, JavaScript, Go, or Java) and experience working with SQL databases.
+Practical experience building for live, non-mocked environments and handling multi-turn system interactions.
+
+
+Compensation
+
+Hourly compensation ranges from USD $30–$50, depending on experience and task complexity
+Payments are issued weekly via supported payout platforms (e.g., PayPal or AirTM)
+Full compensation details are provided prior to task acceptance
+
+
+Equal Opportunity Statement
+
+Selection decisions are based solely on skills, qualifications, and project requirements. We are committed to inclusive and fair engagement practices and consider all qualified applicants without regard to legally protected characteristics.

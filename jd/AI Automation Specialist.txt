@@ -1,0 +1,110 @@
+About the job
+Description
+
+Job Title: AI Automation Specialist
+
+Position Type: Full-Time, Remote
+
+Working Hours: U.S. business hours
+
+About The Role
+
+We are seeking a highly analytical and process-driven AI Automation Specialist to design, build, and maintain intelligent automation solutions that streamline business operations and significantly reduce manual effort. This role focuses on leveraging AI models, automation platforms, and system integrations to improve efficiency across multiple business functions.
+
+The ideal candidate is technically curious, highly organized, and skilled at translating business requirements into scalable, AI-powered workflows that deliver measurable operational impact.
+
+Responsibilities
+
+Process Analysis & Automation Design:
+
+ Analyze existing business processes and identify opportunities for AI-driven automation. 
+ Design intelligent workflows that reduce manual tasks and improve operational efficiency. 
+ Translate business needs into scalable automation solutions. 
+
+AI & Workflow Automation Development
+
+ Build, deploy, and maintain automation workflows using tools such as Zapier, Make, n8n, or Power Automate. 
+ Integrate AI models (e.g., ChatGPT, Claude, Gemini) into operational workflows. 
+ Automate processes across data entry, reporting, customer support, HR, marketing, and operations. 
+
+System Integrations & Technical Execution
+
+ Connect systems using APIs, webhooks, and third-party integrations. 
+ Ensure seamless data flow between tools and platforms. 
+ Troubleshoot automation errors and resolve workflow failures efficiently. 
+
+Optimization & Performance Monitoring
+
+ Monitor automation performance to ensure reliability and accuracy. 
+ Optimize workflows for speed, scalability, and long-term maintainability. 
+ Continuously improve automation logic based on performance data and business feedback. 
+
+Documentation & Collaboration
+
+ Maintain clear and detailed documentation for all automation workflows and logic. 
+ Collaborate closely with stakeholders to gather requirements and propose effective automation solutions. 
+ Provide visibility and clarity across teams on automated processes and outcomes. 
+
+What Makes You a Perfect Fit
+
+ A process-oriented problem solver with a passion for automation and efficiency. 
+ Comfortable working with both technical systems and non-technical stakeholders. 
+ Curious, adaptable, and motivated to stay current with evolving AI and automation tools. 
+ Highly organized with strong documentation and execution discipline. 
+ Able to work independently in a remote, fast-paced environment. 
+
+Required Experience & Skills
+
+ Proven experience in automation, workflow design, or process optimization. 
+ Hands-on experience with no-code / low-code automation tools (Zapier, Make, n8n, Power Automate). 
+ Experience working with AI tools and APIs (OpenAI, Anthropic, Google AI, or similar). 
+ Basic understanding of APIs, webhooks, and data structures. 
+ Strong analytical and problem-solving skills. 
+ Excellent communication and documentation skills. 
+ Reliable high-speed internet with audio and video capabilities. 
+ Fast, reliable computer suitable for professional business use. 
+
+Tools Provided
+
+ Google Workspace 
+ Automation Platforms (Zapier, Make, n8n, or equivalent) 
+ AI Tools & APIs 
+ Project Management Tools (e.g., Asana, ClickUp) 
+ Slack 
+
+Ideal Experience & Skills
+
+ Experience with Python or JavaScript. 
+ Familiarity with databases and tools such as Google Sheets, Airtable, or Notion. 
+ Experience working with CRM or project management tools (HubSpot, Salesforce, ClickUp, Monday.com). 
+ Knowledge of prompt engineering and AI workflow optimization. 
+ Experience with RPA tools (UiPath, Automation Anywhere). 
+
+What Does a Typical Day Look Like?
+
+An AI Automation Specialist’s day is focused on improving efficiency through intelligent workflows. You will:
+
+ Review existing processes and identify new automation opportunities. 
+ Build and test AI-powered automation workflows. 
+ Integrate systems and troubleshoot automation issues. 
+ Monitor workflow performance and optimize logic. 
+ Document automation processes and updates. 
+ Collaborate with stakeholders to align solutions with business needs. 
+
+In essence: you are responsible for replacing manual work with reliable, scalable, AI-driven automation.
+
+Key Metrics for Success (KPIs)
+
+ Number of manual processes successfully automated. 
+ Reliability and uptime of automation workflows. 
+ Reduction in time spent on manual operational tasks. 
+ Accuracy and scalability of automation solutions. 
+ Quality and clarity of automation documentation. 
+
+Interview Process
+
+ Initial Phone Screen 
+ Video Interview with Pavago Recruiter 
+ Practical Assessment (e.g., automation or workflow scenario) 
+ Client Interview 
+ Offer & Onboarding

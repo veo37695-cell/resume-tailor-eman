@@ -1,0 +1,58 @@
+Data Engineer
+$50 - $120/hour
+pay
+Required Skills
+Python
+MySQL
+PostgreSQL
+JAVA
+JavaScript
+AI
+
+About micro1
+micro1 is a data engine that helps AI labs train foundational models and enterprises build AI agents. We provide frontier evaluations and reinforcement learning environments used to improve LLM capabilities, as well as contextual evaluations used to monitor and improve AI agents in enterprise settings. Our data engine includes an AI recruiter agent that sources and vets domain experts, a data platform that enables rapid production of high-quality training data, and a pipeline performance system that ensures both quality and velocity.
+Our goal is to have 1 billion people doing meaningful work by contributing their expertise to the development of frontier AI models. We’ve raised $40M+ in funding, and our AI recruiter has powered more than 1 million AI-led interviews as our global network of experts expands to form the human intelligence layer for AGI.
+Job Description
+Job Title: Data Engineer
+
+
+
+Job Type: Contractor
+
+Location: Remote
+
+
+
+Job Summary:
+
+We are seeking an expert Data Engineer to join our customer’s team and play a pivotal role in developing next-generation AI agents. In this fully remote role, you will leverage your strong data engineering, coding, and AI/ML expertise to help train and optimize advanced AI systems. Collaborate with talented professionals in a dynamic environment where your technical skills and innovative mindset will directly impact the project's success.
+
+
+
+Key Responsibilities:
+
+Design, implement, and manage data pipelines to support complex AI agent training initiatives.
+Collaborate closely with AI/ML engineers to ensure efficient data flows and high-quality training datasets.
+Develop and maintain scalable ETL processes using Python, MySQL, and PostgreSQL.
+Utilize JAVA and JavaScript to integrate diverse data sources and enable seamless data exchange.
+Contribute to the optimization of AI models through effective data engineering practices.
+Document data processes comprehensively and communicate technical concepts clearly to both technical and non-technical stakeholders.
+Troubleshoot and resolve data issues, ensuring data integrity and reliability for AI applications.
+
+
+Required Skills and Qualifications:
+
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+3+ years of hands-on experience as a Data Engineer, with proven expertise in AI/ML projects.
+Advanced proficiency in Python, MySQL, PostgreSQL, JAVA, and JavaScript.
+Strong understanding of AI concepts and experience in training AI agents.
+Exceptional written and verbal communication skills, with a focus on clarity and collaboration.
+Experience implementing robust data pipelines and scalable architecture for machine learning projects.
+Self-motivated, detail-oriented, and able to thrive in a fully remote team environment.
+
+
+Preferred Qualifications:
+
+Master’s degree in a related field.
+Direct experience with AI agent frameworks and real-world deployment projects.
+Previous work in fast-paced startup or innovation-driven environments.

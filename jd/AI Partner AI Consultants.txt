@@ -1,0 +1,30 @@
+About the job
+Job Description
+Must Have Technical/Functional Skills
+Strong experience in AI, Machine Learning, and Applied Data Science
+Hands on expertise in LLMs / Generative AI / NLP / Deep Learning / Predictive Analytics
+Experience in designing and deploying AI solutions on cloud platforms (Azure preferred)
+Solid understanding of MLOps, model lifecycle management, monitoring, and governance
+Experience with Agentic AI architectures and end to end AI solution design
+Knowledge of Responsible AI, data privacy, security, and compliance
+Ability to rapidly build prototypes / PoCs and demonstrate business value
+Preferred industry exposure: Manufacturing, Supply Chain, Retail (nice to have)
+Certifications preferred:
+Azure AI Engineer
+Azure Data Scientist
+Equivalent AI / ML certifications
+
+
+Roles & Responsibilities
+• Engage with customers to identify AI opportunities and translate business problems into scalable AI solutions
+• Lead AI discovery workshops, advisory sessions, and Proof of Concepts
+• Architect end to end AI / Agentic AI solutions including:
+• Data ingestion
+• Model development & evaluation
+• Deployment, monitoring, and governance
+• Collaborate with Data Engineering, Cloud, Application Development, and Industry SMEs
+• Provide AI thought leadership, best practices, and solution guidance
+• Review AI solution architectures to ensure quality, scalability, and compliance
+• Develop reusable AI assets, accelerators, and reference architectures
+• Mentor and guide junior AI engineers and delivery teams
+• Support AI capability scale up across manufacturing and cross industry portfolios

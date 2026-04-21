@@ -622,8 +622,8 @@ def main():
     output_dir.mkdir(parents=True, exist_ok=True)
 
     jd_name = jd_path.stem.replace(" ", "_")
-    output_docx = output_dir / f"Rehan_Malik_Resume_{jd_name}.docx"
-    output_pdf = output_dir / f"Rehan_Malik_Resume_{jd_name}.pdf"
+    output_docx = output_dir / f"Emaan_Zafar_Resume_{jd_name}.docx"
+    output_pdf = output_dir / f"Emaan_Zafar_Resume_{jd_name}.pdf"
 
     print(f"Reading JD: {jd_path}")
     jd_text = read_jd(str(jd_path))

@@ -1,0 +1,79 @@
+Position Title: Jr. AI ML Engineer
+
+Timings: 2:00pm - 11:00pm (Remote)
+
+Department: AI ML
+
+Location: Plot # 176, Korang Road, near Rahat Bakers, I-10/3, Islamabad
+
+
+About Us:
+IKONIC is a US-based IT company headquartered in Miami, Florida, serving clients globally for over 9 years. Were known for building scalable digital solutions and high-performing product teams. Innovation, ownership, and outcomes are core to how we work.﻿﻿
+
+About the Role
+We are looking for a motivated Jr. AI ML Engineer to join our growing team. The ideal candidate is passionate about AI technologies and eager to work on real-world applications involving chatbots, automation, and AI agents.
+You will gain hands-on experience in building AI-powered solutions and supporting end-to-end project development—from understanding requirements to deployment and optimization.
+
+Education & Professional Qualification:
+
+Bachelor's degree in Computer Science, Software Engineering, AI, Data Science, or a related field
+Certifications in AI/ML or related technologies will be a plus
+
+Experience:
+
+6 months to 1 year of experience in AI/ML, software development, or related projects
+
+
+
+Key Responsibilities:
+
+Assist in building AI-powered applications using modern language models.
+Support development of chatbots and virtual assistants such as openclaw with basic conversational abilities.
+Work on simple RAG-based systems for document-based question answering.
+Assist in designing automation workflows using no-code tools like Make, Zapier, or n8n.
+Help integrate AI models with APIs, databases, and web applications.
+Work with vector databases (Pinecone, FAISS, Chroma, etc.) for storing and retrieving data.
+Understanding with Machine Learning & Deep Learning frameworks (scikit-learn, TensorFlow, PyTorch, XGBoost).
+Collaborate with senior engineers to test, improve, and deploy AI solutions.
+Support prompt engineering tasks to improve response quality and accuracy.
+Participate in debugging, testing, and performance improvement of AI systems.
+Learn and apply best practices in building scalable AI applications.
+
+
+
+Requirements:﻿
+
+Bachelor's degree in Computer Science, Software Engineering, ﻿Artificial Intelligence, Data Science, or a related field.
+6 months to 1 year of experience in AI/ML, software development, or related technical projects.
+Basic proficiency in Python with understanding of writing structured and maintainable code.
+Familiarity with AI/ML fundamentals and strong interest in Generative AI and LLM-based systems.
+Strong understanding of core ML algorithms and statistical concepts.
+Understanding knowledge of chatbot development, AI agents, or AI-based personal/academic projects.
+Exposure to AI frameworks or tools such as LangChain, LangGraph, LlamaIndex, or similar technologies.
+Understanding of REST APIs and how backend systems interact with applications.
+Awareness of concepts like embeddings, vector databases, prompt engineering, or semantic search (good to have).
+Strong problem-solving skills with the ability to learn and adapt quickly in a fast-paced environment.
+Good communication skills and ability to work collaboratively within a team.
+Passion for learning new technologies and building practical AI solutions.
+Benefits:
+
+EOBI
+Provident Fund
+Medical Health Insurance
+Annual Leaves
+Casual leaves
+Sick Leaves
+Bereavement Leaves
+Marriage Leaves
+Paternity Leaves
+Maternity Leaves
+
+Why Should You Join IKONIC?
+
+At IKONIC, we believe in providing development opportunities to all its employees, which is why our job comes with a variety of challenging assessments meant to catapult your career to the next level. This is made evident with our offerings such as:
+
+A growth mindset through the help of experienced and helpful Mentors. Ikonic is made up of passionate individuals who aim to support each other in their training as well as day-to-day tasks.
+A Dynamic Environment where we focus on encouraging initiatives, promoting agility and creating a work/life balance. We know the value you bring in, and we aim to nurture it.
+Market Competitive Compensation based upon your professional qualifications and skill set.
+As an Equal employment opportunity provider. All employment associated decisions are based on an individual's merit.
+Note: Above goals and job descriptions are indicative and subject to change.
